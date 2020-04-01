@@ -192,4 +192,4 @@ print('Pop', Pop)
 # References
 * COVID-19 Data: https://github.com/CSSEGISandData/COVID-19
 * SIR model: https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
-*Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
+* Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
